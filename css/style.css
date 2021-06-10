@@ -10,7 +10,7 @@
 }
 
 body{
-    background-image: url("/photos/rpg.jpg");
+    background-image: url("../photos/rpg.jpg");
     background-repeat: no-repeat;
     text-align: center;
     
